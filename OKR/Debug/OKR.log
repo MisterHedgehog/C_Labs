@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\microsoft visual studio\projects c\laba_1\okr\source.c(7): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\okr\source.c(37): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  OKR.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\OKR.exe

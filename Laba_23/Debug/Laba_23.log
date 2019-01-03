@@ -1,0 +1,5 @@
+﻿  laba23.c
+d:\microsoft visual studio\projects c\laba_1\laba_23\laba23.c(30): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_23\laba23.c(37): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_23\laba23.c(69): warning C4244: /=: преобразование "double" в "float", возможна потеря данных
+  Laba_23.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_23.exe

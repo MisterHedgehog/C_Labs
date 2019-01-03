@@ -1,0 +1,6 @@
+﻿  laba18.c
+d:\microsoft visual studio\projects c\laba_1\laba_18\laba18.c(71): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_18\laba18.c(74): warning C4013: resetData: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_18\laba18.c(118): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_18\laba18.c(132): warning C4716: resetData: должна возвращать значение
+  Laba_18.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_18.exe

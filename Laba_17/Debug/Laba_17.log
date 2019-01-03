@@ -1,0 +1,6 @@
+﻿  laba17.c
+d:\microsoft visual studio\projects c\laba_1\laba_17\laba17.c(41): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_17\laba17.c(54): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_17\laba17.c(94): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\microsoft visual studio\projects c\laba_1\laba_17\laba17.c(94): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Laba_17.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_17.exe

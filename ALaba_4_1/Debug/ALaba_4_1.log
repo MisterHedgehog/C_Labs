@@ -1,0 +1,4 @@
+﻿  Alab41.c
+d:\microsoft visual studio\projects c\laba_1\alaba_4_1\alab41.c(21): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_4_1\alab41.c(36): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  ALaba_4_1.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\ALaba_4_1.exe

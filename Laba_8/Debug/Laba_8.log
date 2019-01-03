@@ -1,0 +1,5 @@
+﻿  laba_8.c
+d:\microsoft visual studio\projects c\laba_1\laba_8\laba_8.c(19): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_8\laba_8.c(29): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_8\laba_8.c(40): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Laba_8.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_8.exe

@@ -1,0 +1,6 @@
+﻿  lab522.c
+d:\microsoft visual studio\projects c\laba_1\laba_5_2_2\lab522.c(23): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_5_2_2\lab522.c(34): warning C4013: random: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_5_2_2\lab522.c(52): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_5_2_2\lab522.c(56): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Laba_5_2_2.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_5_2_2.exe

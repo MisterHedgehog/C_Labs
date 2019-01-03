@@ -1,0 +1,6 @@
+﻿  laba10.c
+d:\microsoft visual studio\projects c\laba_1\slaba_10\laba10.c(22): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\slaba_10\laba10.c(35): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\slaba_10\laba10.c(20): warning C4101: min: неиспользованная локальная переменная
+d:\microsoft visual studio\projects c\laba_1\slaba_10\laba10.c(19): warning C4101: groups: неиспользованная локальная переменная
+  SLaba_10.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\SLaba_10.exe

@@ -1,0 +1,5 @@
+﻿  lab112.c
+d:\microsoft visual studio\projects c\laba_1\laba_11_2\lab112.c(27): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_11_2\lab112.c(57): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_11_2\lab112.c(25): warning C4101: result: неиспользованная локальная переменная
+  Laba_11_2.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_11_2.exe

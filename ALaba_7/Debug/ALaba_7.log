@@ -1,0 +1,7 @@
+﻿  laba7.c
+d:\microsoft visual studio\projects c\laba_1\alaba_7\laba7.c(30): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_7\laba7.c(41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_7\laba7.c(35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_7\laba7.c(36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_7\laba7.c(37): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ALaba_7.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\ALaba_7.exe

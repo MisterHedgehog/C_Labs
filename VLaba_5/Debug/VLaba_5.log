@@ -1,0 +1,5 @@
+﻿  laba5.c
+d:\microsoft visual studio\projects c\laba_1\vlaba_5\laba5.c(10): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\vlaba_5\laba5.c(23): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\vlaba_5\laba5.c(5): warning C4101: j: неиспользованная локальная переменная
+  VLaba_5.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\VLaba_5.exe

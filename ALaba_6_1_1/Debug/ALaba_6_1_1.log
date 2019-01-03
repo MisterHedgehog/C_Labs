@@ -1,0 +1,5 @@
+﻿  alab6_1_1.c
+d:\microsoft visual studio\projects c\laba_1\alaba_6_1_1\alab6_1_1.c(23): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_1_1\alab6_1_1.c(33): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_1_1\alab6_1_1.c(20): warning C4101: sum: неиспользованная локальная переменная
+  ALaba_6_1_1.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\ALaba_6_1_1.exe

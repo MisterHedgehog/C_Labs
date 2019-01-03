@@ -1,0 +1,4 @@
+﻿  main1.c
+d:\microsoft visual studio\projects c\laba_1\laba_1\main1.c(18): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_1\main1.c(28): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Laba_1.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_1.exe

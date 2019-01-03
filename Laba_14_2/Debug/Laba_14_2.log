@@ -1,0 +1,5 @@
+﻿  laba14_2.c
+d:\microsoft visual studio\projects c\laba_1\laba_14_2\laba14_2.c(43): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_14_2\laba14_2.c(60): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_14_2\laba14_2.c(99): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Laba_14_2.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_14_2.exe

@@ -1,0 +1,4 @@
+﻿  testic.c
+d:\microsoft visual studio\projects c\laba_1\testic\testic.c(13): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\testic\testic.c(67): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Testic.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Testic.exe

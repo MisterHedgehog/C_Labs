@@ -1,0 +1,12 @@
+﻿  alab622.c
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(22): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(27): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(20): warning C4305: инициализация: усечение из "__int64" в "float"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(36): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(37): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(42): warning C4778: "printf": незавершенная строка форматирования "%L"
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(42): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(42): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(45): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\alaba_6_2_2_2\alab622.c(32): warning C4305: инициализация: усечение из "__int64" в "long"
+  ALaba_6_2_2_2.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\ALaba_6_2_2_2.exe

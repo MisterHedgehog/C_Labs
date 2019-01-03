@@ -1,0 +1,5 @@
+﻿  laba12.c
+d:\microsoft visual studio\projects c\laba_1\laba_12\laba12.c(30): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_12\laba12.c(51): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\laba_12\laba12.c(58): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Laba_12.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\Laba_12.exe

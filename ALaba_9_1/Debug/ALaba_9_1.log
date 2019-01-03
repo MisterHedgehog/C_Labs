@@ -1,0 +1,5 @@
+﻿  laba91.c
+d:\microsoft visual studio\projects c\laba_1\alaba_9_1\laba91.c(22): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_9_1\laba91.c(61): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+d:\microsoft visual studio\projects c\laba_1\alaba_9_1\laba91.c(20): warning C4101: result: неиспользованная локальная переменная
+  ALaba_9_1.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\ALaba_9_1.exe

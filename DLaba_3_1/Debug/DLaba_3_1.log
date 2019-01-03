@@ -1,0 +1,4 @@
+﻿  dlab31.c
+d:\microsoft visual studio\projects c\laba_1\dlaba_3_1\dlab31.c(19): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+d:\microsoft visual studio\projects c\laba_1\dlaba_3_1\dlab31.c(19): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  DLaba_3_1.vcxproj -> D:\Microsoft Visual Studio\Projects C\Laba_1\Debug\DLaba_3_1.exe
